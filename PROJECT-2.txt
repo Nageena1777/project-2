@@ -1,0 +1,59 @@
+                                       PROJECT-2
+                                     REPORT ANALYSIS 
+                                    Client Server System
+        1.Introduction
+           Client-server is a network architecture where a client                                                                                                                           
+           requests services and data from a server.
+           the server processes the request and send the response
+           back to the client
+        2.Objective
+          .To understand client-server communication
+          .To create communication between client and server
+          .To learn how data is transferred over a network
+        3.Project Description
+          This project implements a client-server model.
+          The client sends requests to the server, and the server
+          receives,processes, and returns responses.
+        The system contains two main parts:
+        Client:
+          .Sends requests to the server
+          .Receives responses
+          .Provides user interaction
+        Server:
+          .Accepts client connection
+          .Processes client requests
+          .Sends required output
+       4.Technologies Used
+          .Programming Language:Java /(Your language)
+          .Networking Concept:Socket programming
+          .Communication:Client-server model
+       5.Working Principle
+         1.Server starts and waits for client connection
+         2.Client connects to the server
+         3.Client sends a request/message
+         4.Server processes the request
+         5.Server sends response back
+         6.Client displays the result
+       6.System Design
+         .Client->Request->Server
+         .Server->Response->Client
+       7.Advantages
+         .Easy communication between systems
+         .Centralized data management
+         .Better resource sharing
+         .Easy maintenance
+      8.Applications
+         .Online banking systems
+         .Web applications
+         .Chat applications
+         .File sharing systems
+      9.Conclusion
+        the client-server project demonstrates how two
+        systems communicate through a network.
+        It helps in understanding networking,data 
+        transfer, and server-side processing
+      10.Future Scope
+         .Improve security
+         .Add multiple client support
+         .Store data using databases
+      
