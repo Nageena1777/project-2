@@ -2,8 +2,7 @@
                                      REPORT ANALYSIS 
                                     Client Server System
         1.Introduction
-           Client-server is a network architecture where a client                                                                                                                           
-           requests services and data from a server.
+           Client-server is a network architecture where a client                                                                                                                       requests services and data from a server.
            the server processes the request and send the response
            back to the client
         2.Objective
@@ -56,4 +55,3 @@
          .Improve security
          .Add multiple client support
          .Store data using databases
-      
